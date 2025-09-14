@@ -65,7 +65,7 @@ const Profile = () => {
             id="profileupload"
             accept="image/*"
             className="hidden"
-            onClick={handleproflephoto}
+            onChange={handleproflephoto}
           />
         </button>
 
